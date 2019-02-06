@@ -53,7 +53,7 @@ A curated list of awesome companies that offer their tools and services for free
 - [Semaphore](https://semaphoreci.com/) - Fast automated CI/CD.
 - [Shippable](https://www.shippable.com/) - DevOps automation.
 - [Travis-CI](https://travis-ci.org/) - Automated CI/CD for Open Source.
-
+- [Bitrise](https://www.bitrise.io/) - Hosted CI/CD for Android and iOS, free for Public Projects.
 ## Dependency Management
 
 - [Dependabot](https://dependabot.com/) - Automated dependency updates for Ruby, Python, JavaScript and PHP.
